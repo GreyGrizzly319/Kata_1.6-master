@@ -1,5 +1,5 @@
 
-
+https://greygrizzly319.github.io/Kata_1.6-master/
 //инфа из макета
 # Webpack Static Site Starter Kit
 
